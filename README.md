@@ -7,7 +7,7 @@
 Project was created using three independent components - restful microservice, database and web client. 
 
 ### Todo service
-- Restful serivice created by Spring Boot with Spring MVC, Spring Data.
+- Restful service created with Spring Boot with Spring MVC, Spring Data.
 
 ##### Endpoints
 Method	    | Path	  | Description        | Consumes
